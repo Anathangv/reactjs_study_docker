@@ -1,3 +1,3 @@
 export function App() {
-  return <h1>Dockerized Application - enviroment: {import.meta.env.MODE}</h1>
+  return <h1>Dockerized Application - environment: {import.meta.env.MODE}</h1>
 }
