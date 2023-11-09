@@ -153,13 +153,16 @@ Open the URL in the browser: *http://localhost:3000/*
 ## Screenshots
 
 Development:
+
 ![image](https://github.com/Anathangv/reactjs_study_docker/assets/14235259/c3a2c785-6d1b-4a1c-9754-d44c80935658)
 
 
 Production:
+
 ![image](https://github.com/Anathangv/reactjs_study_docker/assets/14235259/a4e033b5-1421-42e9-bafb-cdb6a142af52)
 
 Docker Desktop - Images:
+
 ![image](https://github.com/Anathangv/reactjs_study_docker/assets/14235259/5a526d15-4276-4b41-9a9f-d525c8c629a7)
 
 
