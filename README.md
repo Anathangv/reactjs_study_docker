@@ -56,7 +56,7 @@ Start the application production mode
   docker-compose up -d
 ```
 
-Open the URL in the browser: *http://localhost:3000/*
+Open the URL in the browser: *http://localhost:8080/*
 
 ## Documentation
  - Additional details and insights can be found within the code comments provided in certain sections
