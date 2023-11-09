@@ -41,7 +41,7 @@ Start the application development mode
 ```bash
   docker-compose -f docker-compose.dev.yml up
 
-  /*or run in detached mode*/
+  #or run in detached mode
   docker-compose -f docker-compose.dev.yml up -d
 ```
 
@@ -52,7 +52,7 @@ Start the application production mode
 ```bash
   docker-compose up
 
-  /*or run in detached mode*/
+  #or run in detached mode
   docker-compose up -d
 ```
 
