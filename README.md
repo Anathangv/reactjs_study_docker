@@ -105,7 +105,7 @@ Open the URL in the browser: *http://localhost:8080/*
   }
 ```
 
-- Create the docker-compose.yml file for development environment
+- Create the docker-compose.dev.yml file for development environment
 
 ```yaml
   version: "3.8"
